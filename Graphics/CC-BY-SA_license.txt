@@ -1,0 +1,36 @@
+KomIn2Assist - Gamification UI - CC-BY-SA License 
+Design of a gamified assistive User Interface, assets and icons, animation sequences of virtual assistant Gregor Gouda.
+
+Creators: Jonas Grund (UI and Gregor Gouda) ; Silas Lemberger (Motion Design)
+Copyrights: Affective & Cognitive Institute of Offenburg University of Applied Sciences. 2023
+
+Terms of Use
+
+KomIn2Assist UI (design and animations) is an add-on on the CC-BY-SA License of Gregor Gouda.
+Every graphic material can only be used under the condition to preserve the main concept of Gregor Gouda’s character and functionality:
+Gregor is designed to be a teacher figure and a friendly colleague, who supports and motivates his target group. He is a (virtual) assistant.
+
+The gamification UI can only be used under the condition to preserve an ethical and appropiate use to support people with cognitive and physical disabilities.
+
+Usage
+	- Gregor can be used in all public, non-profit and research projects as such as studies and by charity institutions and inclusive companies and organisations.
+	- Gregor Gouda must be used as digital or analogous assistant. Originally, he was designed as a supportive character for individuals with intellectual disabilities.
+	- Gregor can be edited and transformed as long his appearance still preserves his original concept of a virtual assistant. The creator forbids every chance that distorts the original concept and character designs of Gregor Gouda.
+	- The name Gregor Gouda must be used.
+	- Using these materials for concept distorting purposes like merchandising is prohibited.
+	- Selling products with Gregor Gouda is prohibited.
+
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.
+
+Please read the CC-BY-SA Licence.
+	- Don’t forget to add attribution of the creator: Jonas Grund of the Affective & Cognitive Institute & Share the link of the creator’s website https://affective-lab.org/ in the attribution
+	- Mind the Share-Alike Licenses. Every derivates need to be licensed under the same CC-BY-SA licence with the same conditions.
+
+For further information please contact us via mail: mail@affective-lab.org 
+
+
+The KomIn2Assist Gamification UI was created in the KomIn2assist project – founded by the Federal Ministry of Education and Research of Germany (BMBF). 
+Further information about the research project can be found at its website https://www.komin2assist.de/
+The virtual Assistant Gregor Gouda was created in the incluMOVE (2017-2020) project – founded by the Federal Ministry of Education and Research of Germany (BMBF).
+Further information about incluMOVE can be found at its website http://inclumove.de/en/
